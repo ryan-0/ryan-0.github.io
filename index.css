@@ -1,0 +1,42 @@
+body {
+  font-family: 'Josefin Slab', serif;
+  text-align: center;
+  border:1px solid black;
+  padding-top: 50px;} 
+
+  a:link, a:visited, a:active{
+  text-decoration: none;
+   color: gray;}
+
+a:hover{
+  color: #ee3e80;
+}
+
+li{
+  display: inline;
+  list-style-type: none;
+  font-size: 20px;
+  padding: 20px;
+}
+
+ul{
+  text-align: center;
+  margin: 30px;
+  padding-right: 50px; 
+}
+
+img.border{
+  border:0px solid black;
+}
+
+img.circle {
+  border-radius: 50%; 
+}
+}
+img.align-center {
+  display: block;
+  margin: 0px auto;}
+
+img.large {
+  width: 300px;
+  height: 300px;}
