@@ -20,7 +20,7 @@ a:link, a:visited, a:active{
 a:hover{
   color: #ee3e80;}
 
-#resume_titles{
+.resume_titles{
 
     font-size: 15px;
     text-align: left;
