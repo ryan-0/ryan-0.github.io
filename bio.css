@@ -1,0 +1,40 @@
+
+
+
+body {
+  font-family: 'Josefin Slab', serif;
+  text-align: center;
+  border:1px solid black;} 
+
+h3{
+  padding-top: 10px;
+  font-size: 20px;
+  text-align: left;
+  padding-left: 20px;}
+a:link, a:visited, a:active{
+  text-decoration: none;
+   color: gray;}
+
+a:hover{
+  color: #ee3e80;}
+
+img.border{
+  border:0px solid black;}
+
+img.circle {
+  border-radius: 50%;}
+img.align-center {
+  display: block;
+  margin: 0px auto;}
+
+img.large {
+  width: 300px;
+  height: 300px;}
+
+#bio{
+  font-size: 20px;
+  padding-left: 250px;
+  padding-right:250px;
+  padding-bottom: 20px;
+
+}
