@@ -1,0 +1,66 @@
+
+body {
+  font-family: 'Josefin Slab', serif;
+  border:1px solid black;} 
+
+h1{
+  text-align: center;
+}
+
+h3 {
+  padding-top: 10px;
+  font-size: 20px;
+  text-align: left;
+  padding-left: 20px;}
+
+a:link, a:visited, a:active{
+  text-decoration: none;
+   color: gray;}
+
+a:hover{
+  color: #ee3e80;}
+
+#resume_titles{
+
+    font-size: 15px;
+    text-align: left;
+    padding-left: 20px;
+    text-decoration: underline;
+  }
+
+
+li{
+  list-style-type: circle;
+}
+p{
+  font-weight: bold;
+  padding-left:30px;
+  font-size: 18px;
+}
+h5{
+  margin-top: -18px;
+  padding-left:20px;
+  color: #ee3e80;
+}
+h5+ul{
+  margin-top: -20px;
+}
+ul{
+  padding-left:70px;
+  font-size: 15px;
+  padding-right: 250px;
+}
+p+ul{
+  margin-top: -15px;
+}
+ul+p{
+  margin-top: -10px;
+}
+
+#left {
+  float: left;
+}
+.right {
+  float: right;
+}
+
