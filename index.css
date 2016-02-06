@@ -4,7 +4,9 @@ body {
   border:1px solid black;
   padding-top: 50px;} 
 
-  a:link, a:visited, a:active{
+
+
+a:link, a:visited, a:active{
   text-decoration: none;
    color: gray;}
 
